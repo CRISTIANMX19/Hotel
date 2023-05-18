@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>vista-frontal-del-hotel.jpg</file>
+    <file>Logo Hotel.png</file>
+  </qresource>
+</RCC>
